@@ -1,0 +1,44 @@
+body{ background-color:#1A1F26;}
+
+.button {
+background-color:transparent;
+color:white;
+border: 1px solid;
+}
+
+img { margin: auto;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+
+.class {
+  background-color: #FFFFFF;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 500px;
+  width:auto;
+}
+
+#circle{
+  margin: 5px;
+  padding-top: 50%;
+  margin-left: -10%;
+  float: left;
+  width: 180px;
+
+}
+
+#title span { 
+  font-family: 'Peddana', serif;
+  font-size: 25px;
+  margin-bottom:1.5rem;
+  font-weight: 1;
+   
+}
+
+.first h1, .first p {  margin: 70px 50px 75px 100px;
+width: 100%;
+max-width: 320px;
+

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  </head>
+  <body>
+    <button class="button">FR</button>
+    <img src="Logo.png" alt="Logo"> 
+  <div class="class" id="Intro">
+     <div class="first">
+     <h1 id="title">UX/UI<span> DESIGNER </span></h1>
+     
+     <p>Quisque libero metus, condimentum nec, tempor a, commodo mollis, magna. Vivamus in erat ut urna cursus vestibulum. Aliquam erat volutpat. Etiam sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet sapien, quis venenatis ante odio sit amet eros. 
+     
+     Vestibulum volutpat pretium libero.Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Sed magna purus, fermentum eu, tincidunt eu, varius ut, felis. 
+     </p>
+
+     </div>
+
+     <div>
+     <img id="circle" src="11.png">
+     </div>
+  </div>
+   
+
+   
+
+
+  
+   <script src="script.js"></script>
+  </body>
+</svg>
+</html>
